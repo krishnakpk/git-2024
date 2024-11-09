@@ -1,2 +1,2 @@
 This is the first file in git handson.
-Adding this second line in the file to learn about the 'git diff' command.
+Adding this second line in the file to learn about the 'git diff' command..
