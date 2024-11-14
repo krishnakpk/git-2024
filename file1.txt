@@ -2,3 +2,4 @@ This is the first file in git handson.
 Adding this second line in the file to learn about the 'git diff' command..
 Trying to perform git diff again.
 Adding this line to try to perform multiple commits together.
+Modifying the file in the working directory to learn pushing the changes to the staging area, the loacl repo and finally to the remote repo.
