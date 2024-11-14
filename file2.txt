@@ -1,2 +1,3 @@
 This is the second file with the first line.
 Adding line 2 to understand the working of the 'git diff' command.
+Modifying this file to practice git pull
